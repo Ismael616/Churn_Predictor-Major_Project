@@ -1,7 +1,5 @@
 # Churn_Predictor-Major_Project
 Customer churn is the focal concern of most companies which are active in industries with low switching cost. Handling this issue, in this study, we developed a model building approach, which consists of classification phase. In the model building phasefew may algorithms were utilized in order to build the predictive model. Evaluating and comparing the performance of the employed algorithms based on “Gain measure”, we concluded that XGBoost algorithm produces more accuracy. Furthermore, dealing with our imbalanced dataset, we use SMOTE techniques for handling the class imbalance.
-## ackowledgement
-No project could be a success without the help and guidance an of experienced person respected in the field of concerned subject. We worked on our project under the guidance of Mrs. Keerti Shrivastava. her experience has made possible for us to conduct the project successfully, by giving guidelines and steps to take in designing and implementing this project. We would like to express our gratitude for her  support.
 ## overview
 Online businesses typically treat a customer as churned once a particular amount of time has elapsed since the customer’s last interaction with the site or service. The full cost of churn includes both lost revenue and the marketing costs involved with replacing those customers with new ones. Reducing churn is a key business goal of every online business.
 ## objectives
