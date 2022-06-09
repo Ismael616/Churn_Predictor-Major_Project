@@ -21,8 +21,6 @@ The application provides the following:
 */Predicting the behavior of the customer ( you need to enter the values and get the prediction.
 Information of the dataset used
 */Some visualization of the work
-## ackowledgement
-No project could be a success without the help and guidance an of experienced person respected in the field of concerned subject. We worked on our project under the guidance of Mrs. Keerti Shrivastava. her experience has made possible for us to conduct the project successfully, by giving guidelines and steps to take in designing and implementing this project. We would like to express our gratitude for her  support.
 ## references
 */Python 3 for machine learning, Oswald Campesato
 */Become a python Data analyst, Alvaro fuentes
